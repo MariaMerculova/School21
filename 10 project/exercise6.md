@@ -1,10 +1,9 @@
 **1.** В таблице Customers выбрали колонки CustomerID CustomerName Address, где указан город Лондон
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Customers1.png)
 
  ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Customers1.png?raw=true)
 
 **2.** В таблице Customers выбрали колонки CustomerID CustomerName ContactName PostalCode, где указан город Берлин,Лондон,Берн
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Customers2.png)
+![IMAGE_DESCRIPTION]([https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Customers2.png](https://github.com/MariaMerculova/School21/blob/main/materials/Customers2.png?raw=true)
 
 **3.**  В таблице Customers выбрали колонки CustomerID CustomerName ContactName PostalCode, где указан город Берлин,Лондон,Берн и CustomerID <10
 ![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Customers3.png)
