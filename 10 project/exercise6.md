@@ -6,79 +6,79 @@
  ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Customers2.png?raw=true)
 
 **3.**  В таблице Customers выбрали колонки CustomerID CustomerName ContactName PostalCode, где указан город Берлин,Лондон,Берн и CustomerID <10
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Customers3.png)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Customers3.png?raw=true)
 
 **4.** В таблице Categories выбрали колонки CategoryID ,Description
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Categories1.png)
-
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Categories1.png?raw=true)
+ 
 **5.** В таблице Categories выбрали колонки ,где Description "Soft drinks, coffees, teas, beers, and ales"
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Categories2.png)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Categories2.png?raw=true)
 
 **6.** В таблице Categories выбрали колонки  ,где Description "Soft drinks, coffees, teas, beers, and ales" или "Desserts, candies, and sweet breads"
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Categories3.png)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Categories3.png?raw=true)
 
 **7.** В таблицы Employees сделали выборку, где в LastName имеются наименования совторой буквой "Е".
 
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Employees1.PNG)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Employees1.PNG?raw=true)
 
 **8.** В таблицы Employees выбрали из колонки BirthDate 1952 год рождения.
 
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Employees2.PNG)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Employees2.PNG?raw=true)
 
 **9.** В таблицы Employees выбрали в колонке FirstName  выбрали  имена где вторая буква "А", далее сгруппировали столбец BirthDate по возрастанию, по условию колонки EmployeeID больше 3. 
 
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Employees3.PNG)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Employees3.PNG?raw=true)
 
 **10.** В таблице OrderDetails отсортировали где в колонке OrderID имеются наименования третьей по счету цифрой 3.
 
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/OrderDetails1.PNG)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/OrderDetails1.PNG?raw=true)
 
 **11.** В таблице OrderDetails отсортировали где в колонке OrderID имеются наименования третьей по счету цифрой 3, далее сгруппировали колонку ProductID по возрастанию.
 
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/OrderDetails2.PNG)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/OrderDetails2.PNG?raw=true)
 
 **12.** В таблице OrderDetails отсортировали где в колонке OrderID имеются наименования третьей по счету цифрой 3, далее сгруппировали колонку ProductID по возрастанию и сделали выборку по колонке Quantity по условию >50.
 
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/OrderDetails3.PNG)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/OrderDetails3.PNG?raw=true)
 
 **13.** В таблице Orders сделали выборку по колонке OrderID, где в наименовании пятая цифра 8.
 
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Orders1.PNG)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Orders1.PNG?raw=true)
 
 **14.** В таблице Orders сделали выборку по колонке OrderID, где в наименовании пятая цифра 8, далее сгруппровали колонку CustomerID по возрастанию.
 
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Orders2.PNG)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Orders2.PNG?raw=true)
 
 **15.** В таблице Orders сделали выборку по колонке OrderID, где в наименовании пятая цифра 8, далее сгруппровали колонку CustomerID по возрастанию, по условию колонки ShipperID >2.
 
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Orders3.PNG)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Orders3.PNG?raw=true)
 
 **16.** Из таблицы Products сделали выборку по SupplierID = 1, и CategoryID = 1 .
 
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Безымянный.png)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Безымянный.png?raw=true)
 
 **17.** В таблице Products отсортировали колонку "ProductName" с названиями начинающиеся на "С" букву.
 
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/c_.png)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/c%25.png?raw=true)
 
 **18.** В таблице Products отсортировали колонку "ProductName" с названиями начинающиеся на "С" букву, затем сгруппировали столбец Unit по возрастанию по условию Price больше или равно 30.
 
-![IMAGE_DESCRIPTION]([https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/4_оператора_запроса.png](https://github.com/MariaMerculova/School21/blob/main/materials/4%20оператора%20запроса.png?raw=true))
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/4%20оператора%20запроса.png?raw=true)
 
 **19.**  В таблице Shippers выбрать колонку ShipperName , где ShipperName "Speedy Express"
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Shippers1.png)
-
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Shippers1.png?raw=true)
+ 
 **20.** В таблице Shippers выбрать все записи,где номер телефона заканчивается на "31"
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Shippers2.png)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Shippers2.png?raw=true)
 
 **21.**  В таблице Shippers выбрать все записи,где номер телефона заканчивается на "31" и отсортировать в порядке убывания
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Shippers3.png)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Shippers3.png?raw=true)
 
 **22.** В таблице Suppliers выбрать SupplierName ContactName Address City Phone ,где ContactName начинается с "С" и отсортировать по колонке ContactName
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Suppliers1.png)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Suppliers1.png?raw=true)
 
 **23.** В таблице Suppliers выбрать SupplierID ContactName, где SupplierID <8
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Suppliers2.png)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Suppliers2.png?raw=true)
 
 **24.** В таблице Suppliers выбрать все значения и отсортивать SupplierIDв порядке убывания
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Suppliers3.png)
+ ![alt tag](https://github.com/MariaMerculova/School21/blob/main/materials/Suppliers3.png?raw=true)
