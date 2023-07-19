@@ -62,7 +62,7 @@
 
 **18.** В таблице Products отсортировали колонку "ProductName" с названиями начинающиеся на "С" букву, затем сгруппировали столбец Unit по возрастанию по условию Price больше или равно 30.
 
-![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/4_оператора_запроса.png)
+![IMAGE_DESCRIPTION]([https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/4_оператора_запроса.png](https://github.com/MariaMerculova/School21/blob/main/materials/4%20оператора%20запроса.png?raw=true))
 
 **19.**  В таблице Shippers выбрать колонку ShipperName , где ShipperName "Speedy Express"
 ![IMAGE_DESCRIPTION](https://repos.21-school.ru/students/MT10.ID_1261488/Team__TL__yeeshadi_student.21_school.ru_.OsqVJwxSQJq9TQWXsvLOYw/MT10-1/-/raw/develop/materials/Shippers1.png)
